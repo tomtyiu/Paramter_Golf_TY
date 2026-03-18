@@ -1,3 +1,3 @@
 # Introduction
 
-This PR is for paramter_golf for OpenAI
+This PR is for parameter_golf for OpenAI
